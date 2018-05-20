@@ -1,0 +1,23 @@
+{
+  "name": "mapstyles",
+  "description": null,
+  "version": "0.0.320",
+  "dependencies": {
+    "recompose": "0.26.0",
+    "react-google-maps": "latest",
+    "react-dom": "latest",
+    "react-bootstrap": "0.32.1",
+    "react": "latest",
+    "dms-conversion": "3.0.0",
+    "antd": "3.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

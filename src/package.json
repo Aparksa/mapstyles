@@ -1,0 +1,22 @@
+{
+  "name": "MapStyles",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/2zo46y0010",
+  "main": "index.js",
+  "dependencies": {
+    "antd": "3.2.1",
+    "dms-conversion": "3.0.0",
+    "env2": "2.2.0",
+    "flexbox-react": "4.4.0",
+    "material-ui": "0.20.0",
+    "react": "latest",
+    "react-bootstrap": "0.32.1",
+    "react-dom": "latest",
+    "react-google-maps": "latest",
+    "recompose": "0.26.0",
+    "underscore": "1.9.0",
+    "whatwg-fetch": "2.0.4"
+  }
+}

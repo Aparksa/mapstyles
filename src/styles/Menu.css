@@ -1,0 +1,42 @@
+.calques {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  font-family: "arial", "sans-serif";
+  font-size: 12px;
+  background-color: white;
+  border: 2px solid red;
+  padding: 5px 10px;
+  box-shadow: 0 5px 10px #777;
+}
+
+.coords {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.checkboxes {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+  font-family: "arial", "sans-serif";
+  font-size: 13px;
+  background-color: transparent;
+  border: 0px solid red;
+  padding: 0px 0px;
+  box-shadow: 0 5px 10px #777;
+}
+
+.hidden {
+ display:none; 
+}
+
+.logo {
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  background-color: transparent;
+  width:7%;
+  height:7%;
+}

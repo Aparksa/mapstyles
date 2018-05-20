@@ -1,0 +1,48 @@
+{
+  "Photos": [
+    {
+      "IGN": [
+        {
+          "icon": "icon.IGN",
+          "text": "IGN_1",
+          "file": "IGN1.geojson",
+          "checked": false
+        },
+        {
+          "icon": "icon.IGN",
+          "text": "IGN_2",
+          "file": "IGN2.geojson",
+          "checked": false
+        },
+        {
+          "icon": "icon.IGN",
+          "text": "IGN_3",
+          "file": "IGN3.geojson",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "AERODATA": [
+        {
+          "icon": "icon.AERODATA",
+          "text": "AERODATA_1",
+          "file": "AERODATA1.geojson",
+          "checked": false
+        },
+        {
+          "icon": "icon.SFS",
+          "text": "SFS_1",
+          "file": "SFS1.geojson",
+          "checked": false
+        },
+        {
+          "icon": "icon.SFS",
+          "text": "SFS_2",
+          "file": "SFS2.geojson",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

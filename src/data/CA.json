@@ -1,0 +1,46 @@
+{
+  "CA": [
+    {
+      "group": "FIR",
+      "icon": "icon.CTL",
+      "text": "CTL FIR",
+      "file": "https://dl.airtable.com/vvZttxjnSCGINmXlEn55_Secteurs_FIR.kmz",
+      "checked": false
+    },
+    {
+      "group": "FIR",
+      "icon": "icon.SIV",
+      "text": "SIV",
+      "file": "https://dl.airtable.com/AQTLZfEmRFizQbg1st8K_SIV.kmz",
+      "checked": true
+    },
+    {
+      "group": "UIR",
+      "icon": "icon.TSA",
+      "text": "TSA",
+      "file": "TSA.geojson",
+      "checked": false
+    },
+    {
+      "group": "UIR",
+      "icon": "icon.D",
+      "text": "Zones D",
+      "file": "UIR_D.geojson",
+      "checked": false
+    },
+    {
+      "group": "UIR",
+      "icon": "icon.R",
+      "text": "Zones R",
+      "file": "UIR_R.geojson",
+      "checked": false
+    },
+    {
+      "group": "UIR",
+      "icon": "icon.CTL",
+      "text": "CTL UIR",
+      "file": "UIR_CTL.geojson",
+      "checked": true
+    }
+  ]
+}
