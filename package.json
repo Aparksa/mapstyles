@@ -3,13 +3,14 @@
   "description": null,
   "version": "0.0.320",
   "dependencies": {
-    "recompose": "0.26.0",
-    "react-google-maps": "latest",
-    "react-dom": "latest",
-    "react-bootstrap": "0.32.1",
-    "react": "latest",
+    "antd": "3.2.0",
     "dms-conversion": "3.0.0",
-    "antd": "3.2.0"
+    "react": "latest",
+    "react-bootstrap": "0.32.1",
+    "react-dom": "latest",
+    "react-google-maps": "latest",
+    "recompose": "0.26.0",
+    "underscore": "1.9.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"

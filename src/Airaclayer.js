@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import Menu from "./Menu";
 import { Panel, FormGroup, Glyphicon } from "react-bootstrap";
 import _ from "underscore";
-import "../styles/Menu.css";
-import "../styles/bootstrap.min.css";
+import "./styles/Menu.css";
+import "./styles/bootstrap.min.css";
 
 const config = {
   base2: "appCRRZuFjZ434Sbu",
